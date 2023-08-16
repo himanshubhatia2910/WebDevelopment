@@ -7,3 +7,8 @@ Explore a diverse collection of bite-sized web development projects in this repo
 - HTML.
 - CSS.
 - Javascript.
+
+## Project Live URL:
+
+- Calculator: https://himanshu29-calculator.netlify.app/
+- Weather Update: https://himanshu29-weatherapp.netlify.app/
