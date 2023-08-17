@@ -11,4 +11,4 @@ Explore a diverse collection of bite-sized web development projects in this repo
 ## Project Live URL:
 
 - Calculator: https://himanshu29-calculator.netlify.app/
-- Weather Update: https://himanshu29-weatherapp.netlify.app/
+- Weather Update: https://himanshu29-weatherupdates.netlify.app/
