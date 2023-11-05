@@ -162,7 +162,7 @@ class Invader{
 			},
 			velocity: {
 				x: 0,
-				y: 5
+				y: 3
 			}
 		}))
 	}
@@ -175,7 +175,7 @@ class Grid
 			y:0
 		}
 		this.velocity = {
-			x:10,
+			x:5,
 			y:0
 		}
 		this.invaders = []
